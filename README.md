@@ -1,6 +1,6 @@
 # Geospatial Intelligence Analysis Project: Optimal Installation Sites Near King of Prussia, PA
 
-This project identifies optimal installation sites within a 5 km radius around King of Prussia, PA. Using ArcGIS Pro, we analyzed terrain, infrastructure, and population data to determine suitable locations. The analysis combines slope suitability, infrastructure accessibility, and proximity to population centers to highlight optimal installation points.
+This project identifies optimal installation sites within a 5 km radius around King of Prussia, PA. Using ArcGIS Pro, I analyzed terrain, infrastructure, and population data to determine suitable locations. The analysis combines slope suitability, infrastructure accessibility, and proximity to population centers to highlight optimal installation points.
 
 ## Table of Contents
 
