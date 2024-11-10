@@ -129,29 +129,29 @@ The analysis successfully identified areas suitable for installations based on t
 ## Images
 
 - **Project Directory Structure**  
-  ![Project Directory](Geospatial_Intelligence_Analysis\maps\Project_Directory.png)
+  ![Project Directory](maps\Project_Directory.png)
 
 - **Defining AOI**  
-  ![AOI Definition](Geospatial_Intelligence_Analysis\maps\AOI_5km.png)
+  ![AOI Definition](maps\AOI_5km.png)
 
 - **Slope and Aspect Analysis**  
-  ![Slope Analysis](Geospatial_Intelligence_Analysis\maps\slope.png)  
-  ![Aspect Analysis](Geospatial_Intelligence_Analysis\maps\aspect.png)
+  ![Slope Analysis](maps\slope.png)  
+  ![Aspect Analysis](maps\aspect.png)
 
 - **Reclassified Slope for Suitability**  
-  ![Slope Suitability](Geospatial_Intelligence_Analysis\maps\slope_suitability.png)
+  ![Slope Suitability](maps\slope_suitability.png)
 
 - **Roads Buffer**  
-  ![Roads Buffer](Geospatial_Intelligence_Analysis\maps\roads_buffer.png)
+  ![Roads Buffer](maps\roads_buffer.png)
 
 - **Population Centers Clip**  
-  ![Population Centers](Geospatial_Intelligence_Analysis\maps\population_centers_clipped.png)
+  ![Population Centers](maps\population_centers_clipped.png)
 
 - **Combined Suitability**  
-  ![Combined Suitability](Geospatial_Intelligence_Analysis\maps\combined_suitability.png)
+  ![Combined Suitability](maps\combined_suitability.png)
 
 - **Final Map**  
-  ![Final Map](Geospatial_Intelligence_Analysis\maps\final_map.png)
+  ![Final Map](maps\final_map.png)
 
 ## Additional Notes
 
