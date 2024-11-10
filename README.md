@@ -129,29 +129,29 @@ The analysis successfully identified areas suitable for installations based on t
 ## Images
 
 - **Project Directory Structure**  
-  ![Project Directory](maps\Project_Directory.png)
+  ![Project Directory](./maps/Project_Directory.png)
 
 - **Defining AOI**  
-  ![AOI Definition](maps\AOI_5km.png)
+  ![AOI Definition](./maps/AOI_5km.png)
 
 - **Slope and Aspect Analysis**  
-  ![Slope Analysis](maps\slope.png)  
-  ![Aspect Analysis](maps\aspect.png)
+  ![Slope Analysis](./maps/slope.png)  
+  ![Aspect Analysis](./maps/aspect.png)
 
 - **Reclassified Slope for Suitability**  
-  ![Slope Suitability](maps\slope_suitability.png)
+  ![Slope Suitability](./maps/slope_suitability.png)
 
 - **Roads Buffer**  
-  ![Roads Buffer](maps\roads_buffer.png)
+  ![Roads Buffer](./maps/roads_buffer.png)
 
 - **Population Centers Clip**  
-  ![Population Centers](maps\population_centers_clipped.png)
+  ![Population Centers](./maps/population_centers_clipped.png)
 
 - **Combined Suitability**  
-  ![Combined Suitability](maps\combined_suitability.png)
+  ![Combined Suitability](./maps/combined_suitability.png)
 
 - **Final Map**  
-  ![Final Map](maps\final_map.png)
+  ![Final Map](./maps/final_map.png)
 
 ## Additional Notes
 
