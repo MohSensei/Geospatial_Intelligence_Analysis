@@ -129,29 +129,29 @@ The analysis successfully identified areas suitable for installations based on t
 ## Images
 
 - **Project Directory Structure**  
-  ![Project Directory](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\Project_Directory.png)
+  ![Project Directory](Geospatial_Intelligence_Analysis\maps\Project_Directory.png)
 
 - **Defining AOI**  
-  ![AOI Definition](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\AOI_5km.png)
+  ![AOI Definition](Geospatial_Intelligence_Analysis\maps\AOI_5km.png)
 
 - **Slope and Aspect Analysis**  
-  ![Slope Analysis](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\slope.png)  
-  ![Aspect Analysis](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\aspect.png)
+  ![Slope Analysis](Geospatial_Intelligence_Analysis\maps\slope.png)  
+  ![Aspect Analysis](Geospatial_Intelligence_Analysis\maps\aspect.png)
 
 - **Reclassified Slope for Suitability**  
-  ![Slope Suitability](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\slope_suitability.png)
+  ![Slope Suitability](Geospatial_Intelligence_Analysis\maps\slope_suitability.png)
 
 - **Roads Buffer**  
-  ![Roads Buffer](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\roads_buffer.png)
+  ![Roads Buffer](Geospatial_Intelligence_Analysis\maps\roads_buffer.png)
 
 - **Population Centers Clip**  
-  ![Population Centers](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\population_centers_clipped.png)
+  ![Population Centers](Geospatial_Intelligence_Analysis\maps\population_centers_clipped.png)
 
 - **Combined Suitability**  
-  ![Combined Suitability](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\combined_suitability.png)
+  ![Combined Suitability](Geospatial_Intelligence_Analysis\maps\combined_suitability.png)
 
 - **Final Map**  
-  ![Final Map](C:\Users\Mohammed\Documents\Geospatial_Intelligence_Analysis\maps\final_map.png)
+  ![Final Map](Geospatial_Intelligence_Analysis\maps\final_map.png)
 
 ## Additional Notes
 
